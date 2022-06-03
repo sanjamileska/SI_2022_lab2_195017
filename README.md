@@ -4,7 +4,7 @@
 
 Control Flow Graph 
 
-![alt text](https://github.com/sanjamileska/SI_2022_lab2_193144/blob/main/CFG.png)
+![alt text](https://github.com/sanjamileska/SI_2022_lab2_195017/blob/master/CFG.png)
 
 Цикломатска комплексност 
 Цикломатската комплексност изнесува 9 , ги броиме сите if  и for услови + 1. Од ова следум 7 + 1 + 1 = 9.
